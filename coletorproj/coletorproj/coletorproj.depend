@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687995974 source:c:\users\tiago\desktop\faculdade\linguagens de programação\coletor automático de memória - c\coletorproj\coletorproj\coletor.c
+	<stdio.h>
+	<stdlib.h>
+	"coletor.h"
+
+1687998330 c:\users\tiago\desktop\faculdade\linguagens de programação\coletor automático de memória - c\coletorproj\coletorproj\coletor.h
+
+1687995930 source:c:\users\tiago\desktop\faculdade\linguagens de programação\coletor automático de memória - c\coletorproj\coletorproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"coletor.h"
+
